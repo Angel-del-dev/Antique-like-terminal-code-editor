@@ -1,0 +1,6 @@
+
+*.exe
+*.exe~
+.editorconfig
+*.idea
+examples
