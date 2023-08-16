@@ -5,6 +5,8 @@
 * Remove file
 * Remove directory
 * Insert line between
+* Auto compile/interpret
+* git integration
 
 # Features
 
